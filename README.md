@@ -7,7 +7,7 @@
 
 🔭 I’m currently working on **finishing my degree in Information Technology.**
 
-✉️ You can reach me at **lagerqvr@gmail.com**
+✉️ You can reach me at **rasmus.o.lagerqvist@gmail.com**
 
 <br>
 
