@@ -5,9 +5,11 @@
 
 <br>
 
-- 🔭 I’m currently working on **finishing my degree in Information Technology.**
+🔭 I’m currently working on **finishing my degree in Information Technology.**
 
-- ✉️ You can reach me at **lagerqvr@gmail.com**
+✉️ You can reach me at **lagerqvr@gmail.com**
+
+<br>
 
 <h3 align="left">Connect with me on LinkedIn:</h3>
 <p align="left">
