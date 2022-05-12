@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏼, I'm Rasmus</h1>
-<h3 align="center">An aspiring software engineer from Helsinki.</h3>
+<h3 align="center">An aspiring software engineer from Helsinki, Finland 🇫🇮.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
