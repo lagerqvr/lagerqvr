@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋🏼, I'm Rasmus</h1>
-<h3 align="center">An aspiring software engineer from Helsinki 🇫🇮.</h3>
+<h3 align="center" style="margin-bottom:20px">An aspiring software engineer from Helsinki 🇫🇮.</h3>
 
 - 🔭 I’m currently working on **finishing my degree in Information Technology.**
 
