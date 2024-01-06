@@ -6,7 +6,7 @@ Feel free to reach out to me on LinkedIn if you're interested in discussing tech
 </p>
     
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat&color=black)](https://www.linkedin.com/in/rasmus-lagerqvist)
-[![Website](https://img.shields.io/badge/lagerqvr.com--green?style=flat&colorA=black&colorB=black&logo=firefoxbrowser&logoColor=white)](https://www.kassq.dev)
+[![Website](https://img.shields.io/badge/lagerqvr.com--green?style=flat&colorA=black&colorB=black&logo=firefoxbrowser&logoColor=white)](https://lagerqvr.com)
 </div>
 
 
