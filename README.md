@@ -1,20 +1,12 @@
+<h2 align="left">Hi 👋🏼, I'm Rasmus</h1>
 
+I'm a Full-Stack Developer based in Finland, with a strong focus on web development and an expanding interest in DevOps and Cybersecurity. After graduating with a Bachelor’s degree in Information Technology, I've been applying my skills in a range of technologies including HTML & CSS, JavaScript, React.js & Next.js, Python, SQL, and Java. With three years of industry experience under my belt, I'm committed to building dynamic, robust, and user-friendly applications.
 
-<h1 align="center">Hi 👋🏼, I'm Rasmus</h1>
-<h3 align="center">An aspiring software engineer from Helsinki 🇫🇮.</h3>
-
-<br>
-
-🔭 I’m currently working on **finishing my degree in Information Technology.**
-
-✉️ You can reach me at **rasmus.o.lagerqvist@gmail.com**
-
-<br>
-
-<h3 align="left">Connect with me on LinkedIn:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rasmus-lagerqvist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasmus-lagerqvist" height="30" width="40" /></a>
-</p>
+Feel free to reach out to me on LinkedIn if you're interested in discussing technology, sharing ideas, or exploring potential collaborations. I'm always open to learning from others and sharing my own experiences.
+    
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat&color=black)](https://www.linkedin.com/in/rasmus-lagerqvist)
+[![Website](https://img.shields.io/badge/lagerqvr.com--green?style=flat&colorA=black&colorB=black&logo=firefoxbrowser&logoColor=white)](https://www.kassq.dev)
+</div>
 
 
 
